@@ -1,0 +1,18 @@
+Step 1:
+Install Django using "Pip install Django"
+
+After installation of Django we get to use Django commands 
+run "Django-admin" to see list of commands
+sometimes this command "Django-admin" is not recognized this that case:
+a) open command prompt and get into the project folder by using change directory command "cd path"
+b)create a virtual environment by using "python-m vene venv" second venv is the name of virtual environment
+c)activate created virtual enviroment by using "venv\Scripts\activate"
+this will take you to the virtual enviroment where we will again install django
+d) use "pip install django" to install django in virtual environment 
+
+Step 2:
+Create a new project using "django-admin startproject yourprojectname"
+this will create a directory of our project name 
+
+Step 3:
+to run local server use command"python manage.py runserver"
