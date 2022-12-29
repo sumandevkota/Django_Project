@@ -5,7 +5,7 @@ After installation of Django we get to use Django commands
 run "Django-admin" to see list of commands
 sometimes this command "Django-admin" is not recognized this that case:
 a) open command prompt and get into the project folder by using change directory command "cd path"
-b)create a virtual environment by using "python-m vene venv" second venv is the name of virtual environment
+b)create a virtual environment by using "python-m venv venv" second venv is the name of virtual environment
 c)activate created virtual enviroment by using "venv\Scripts\activate"
 this will take you to the virtual enviroment where we will again install django
 d) use "pip install django" to install django in virtual environment 
