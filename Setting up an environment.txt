@@ -16,3 +16,16 @@ this will create a directory of our project name
 
 Step 3:
 to run local server use command"python manage.py runserver"
+
+
+Git: Push code
+get to the directory 
+step:1 git init
+step:2 git add . 
+step:3 git status
+step:4 git commit -m "your commit"
+step:5 git remote add origin "paste git hub url here"
+step:6 git push -u origin master
+
+
+
